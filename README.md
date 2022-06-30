@@ -1,4 +1,4 @@
-### Hi there, I am Devanshi Joshi 👋 
+## Hi there, I'm Devanshi Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshi-joshi-b5ab79184/)
 

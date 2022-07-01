@@ -22,6 +22,23 @@
 
 </br>
 
+### Github Profile Trophy
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=devanshijoshi9&column=9&theme=gruvbox&no-frame=true"/>
+
+</br>
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshijoshi9&show_icons=true&theme=tokyonight) 
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshijoshi9&layout=compact)
+
+</br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devanshijoshi9&theme=neon-palenight&hide_border=true)
+
+
+
 <!--
 **devanshijoshi9/devanshijoshi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

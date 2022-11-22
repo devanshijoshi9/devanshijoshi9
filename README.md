@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshi-joshi-b5ab79184/)
 
-### Thank you for visiting !!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=devanshijoshi9.devanshijoshi9)
+### Thank you for visiting !!
 
 - 👨🏻‍💻 I am full stack developer
 - 🚀 Currenlty, I am learning reactJS
